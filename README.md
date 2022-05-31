@@ -1,4 +1,4 @@
 # testRs
-new text
-Hello World
-new text
+:poop:
+:pushpin:
+> привет
